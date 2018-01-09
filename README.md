@@ -1,1 +1,1 @@
-# simple-fwi-with-devito
+# simple-fwi
